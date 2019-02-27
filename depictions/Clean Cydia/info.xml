@@ -10,15 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>A clean version of Cydia. Use with snowboard. (This is used as a test package for uploading themes)
+	<shortDescription>A clean version of Cydia
 </shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
+		<description>A clean version of Cydia. Use with snowboard. (This is used as a test package for uploading themes)
 		</description>
 	</descriptionlist>
 	<screenshots>
