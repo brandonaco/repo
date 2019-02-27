@@ -15,13 +15,13 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.new
 Package: com.brandonax7.cleancydia
 Name: Clean Cydia
 Depends: SnowBoard
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
-Description: A clean version of Cydia. Use with snowboard. (This is used as a test package for uploading themes)
-Maintainer: BrandonAX7
-Author: BrandonAX7
+Description: A clean version of Cydia.
+Maintainer: BrandonAX7 <brandonax7@gmail.com>
+Author: BrandonAX7 <brandonax7@gmail.com>
 Section: Themes
 Filename: ./debs/com.brandonax7.cleancydia.deb
 Depiction: https://brandonaco.github.io/repo/depictions/cleancydia
-Size: 83129
+Size: 40982
 HD5sum: b5c7b68323a1a19bd17e40db7b17e7dd
