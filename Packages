@@ -23,6 +23,20 @@ Maintainer: BrandonAX7 <brandonax7@gmail.com>
 Author: BrandonAX7 <brandonax7@gmail.com>
 Section: Themes
 Filename: ./debs/com.brandonax7.cleancydia.deb
-Depiction: https://brandonaco.github.io/repo/depictions/com.brandonax7.cleancydia
+Depiction: https://brandonaco.github.io/repo/depictions/?p=com.brandonax7.cleancydia
 Size: 41010
 MD5sum: 050dfa944b6ad3e2b5b2d3e1e15efe7d
+
+Package: com.brandonax7.Umbra
+Name: Umbra
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A clean theme for charity.
+Maintainer: BrandonAX7 <brandonax7@gmail.com>
+Author: BrandonAX7 <brandonax7@gmail.com>
+Section: Themes
+Filename: ./debs/com.brandonax7.Umbra.deb
+Depiction: https://brandonaco.github.io/repo/depictions/?p=com.brandonax7.Umbra
+Size: 51708
+MD5sum: b799e5129decc8df7a88f7e37af5c0ae

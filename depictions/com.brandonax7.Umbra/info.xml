@@ -1,0 +1,23 @@
+<package>
+	<id>com.brandonax7.Umbra</id>
+	<name>Umbra</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A clean theme designed to raise charity.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
