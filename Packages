@@ -14,14 +14,15 @@ Depiction: https://brandonaco.github.io/repo/depictions/cleancydia
 
 Package: com.brandonax7.cleancydia
 Name: Clean Cydia
-Depends: mobilesubstrate
+Depends: SnowBoard
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: A clean version of Cydia.
+Depiction: 
+Description: A cleaner version of the Cydia icon
 Maintainer: BrandonAX7 <brandonax7@gmail.com>
 Author: BrandonAX7 <brandonax7@gmail.com>
 Section: Themes
 Filename: ./debs/com.brandonax7.cleancydia.deb
 Depiction: https://brandonaco.github.io/repo/depictions/com.brandonax7.cleancydia
-Size: 41018
+Size: 41010
 MD5sum: 050dfa944b6ad3e2b5b2d3e1e15efe7d
