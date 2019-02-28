@@ -2,7 +2,9 @@
 	<changes>
 		<version>0.0.2</version>
 		<change>Added Safari, Mail, and Phone icons!</change>
-		<version>0.0.1</version>
-		<change>Initial release</change>
 	</changes>
+	<changes>
+	    <version>0.0.1</version>
+		<change>Initial release</change>
+	</changes>	
 </changelog>
