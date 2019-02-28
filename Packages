@@ -1,31 +1,3 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://brandonaco.github.io/repo/depictions/cleancydia
-
-Package: com.brandonax7.cleancydia
-Name: Clean Cydia
-Depends: SnowBoard
-Version: 0.0.1
-Architecture: iphoneos-arm
-Depiction: 
-Description: A cleaner version of the Cydia icon
-Maintainer: BrandonAX7 <brandonax7@gmail.com>
-Author: BrandonAX7 <brandonax7@gmail.com>
-Section: Themes
-Filename: ./debs/com.brandonax7.cleancydia.deb
-Depiction: https://brandonaco.github.io/repo/depictions/?p=com.brandonax7.cleancydia
-Size: 41010
-MD5sum: 050dfa944b6ad3e2b5b2d3e1e15efe7d
 
 Package: com.brandonax7.Umbra
 Name: Umbra
