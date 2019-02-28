@@ -1,23 +1,45 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>com.supermamon.fullpackage</id>
 	<name>To Be Announced</name>
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>12</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>12</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a theme that is currently being developed to raise money for charity. Full release TBA</shortDescription>
 	<descriptionlist>
-		<description>This is a tweak that is currently being developed to make more efficient use out of your iPhone.</description>
+		<description>This theme is currently being developed to raise money for chairty,</description>
+		<description>Full release TBA</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot of nothing 1</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot of nothing 2</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>Google</name>
+			<url>https://google.com</url>
+			<iconclass>Google Search</iconclass>
+		</link>
+	</links>
 </package>
