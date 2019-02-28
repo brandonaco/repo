@@ -8,16 +8,14 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>TBA</package>
 	</dependencies>
-	<shortDescription>This tweak is currently being developed to make more efficient use out of your iPhone. Full release TBA</shortDescription>
+	<shortDescription>(Only seen in cydia) This tweak is currently being developed to make more efficient use out of your iPhone. Full release TBA</shortDescription>
 	<descriptionlist>
-		<description>This tweak is currently being developed to make more efficient use out of your iPhone,</description>
+		<description>This tweak is currently being developed to make more efficient use out of your iPhone.</description>
 		<description>Full release TBA</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
+		<description>Updates Coming
+		soon!
 		</description>
 	</descriptionlist>
 	<screenshots>
@@ -31,7 +29,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
+		<change>Next Release</change>
 		<change>It has feature 1</change>
 		<change>It has feature 2</change>
 	</changelog>

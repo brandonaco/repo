@@ -8,16 +8,14 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>Snowboard</package>
 	</dependencies>
-	<shortDescription>This is a theme that is currently being developed to raise money for charity. Full release TBA</shortDescription>
+	<shortDescription>(Only seen in cydia) This is a theme that is currently being developed to raise money for charity. Full release TBA</shortDescription>
 	<descriptionlist>
 		<description>This theme is currently being developed to raise money for chairty,</description>
 		<description>Full release TBA</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
+		<description>Updates Coming
+		Soon!
 		</description>
 	</descriptionlist>
 	<screenshots>
@@ -31,7 +29,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
+		<change>Next release</change>
 		<change>It has feature 1</change>
 		<change>It has feature 2</change>
 	</changelog>
