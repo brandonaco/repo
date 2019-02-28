@@ -10,18 +10,18 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: https://brandonaco.github.io/repo/depictions/cleancydia
 
 Package: com.brandonax7.cleancydia
 Name: Clean Cydia
-Depends: SnowBoard
-Version: 0.0.2
+Depends: mobilesubstrate
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: A clean version of Cydia.
 Maintainer: BrandonAX7 <brandonax7@gmail.com>
 Author: BrandonAX7 <brandonax7@gmail.com>
 Section: Themes
 Filename: ./debs/com.brandonax7.cleancydia.deb
-Depiction: https://brandonaco.github.io/repo/depictions/cleancydia
-Size: 40982
-HD5sum: b5c7b68323a1a19bd17e40db7b17e7dd
+Depiction: https://brandonaco.github.io/repo/depictions/com.brandonax7.cleancydia
+Size: 41062
+HD5sum: 87099a4538de10e407680976b6535ede
